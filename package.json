@@ -1,0 +1,24 @@
+{
+  "name": "constructor_word_guess",
+  "version": "1.0.0",
+  "description": "Constructor Word Guessing game",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfwoodside/Constructor_Word_Guess.git"
+  },
+  "author": "Don Woodside",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dfwoodside/Constructor_Word_Guess/issues"
+  },
+  "homepage": "https://github.com/dfwoodside/Constructor_Word_Guess#readme",
+  "dependencies": {
+    "game": "^1.0.3",
+    "inquirer": "^5.2.0",
+    "prompt": "^1.0.0"
+  }
+}
